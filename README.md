@@ -40,11 +40,11 @@ LogTester:  Predict anomaly using LSTM model on test dataset.
 
 The code is inspired or based on these projects:
 
-https://github.com/scikit-learn/scikit-learn
-https://github.com/pandas-dev/pandas
-https://github.com/numpy/numpy
-https://github.com/pytorch/pytorch
-https://github.com/logpai/logparser
-https://github.com/wuyifan18/DeepLog
-https://github.com/Thijsvanede/DeepLog
-https://github.com/Wapiti08/DeepLog
+https://github.com/scikit-learn/scikit-learn  
+https://github.com/pandas-dev/pandas  
+https://github.com/numpy/numpy  
+https://github.com/pytorch/pytorch  
+https://github.com/logpai/logparser  
+https://github.com/wuyifan18/DeepLog  
+https://github.com/Thijsvanede/DeepLog  
+https://github.com/Wapiti08/DeepLog  
