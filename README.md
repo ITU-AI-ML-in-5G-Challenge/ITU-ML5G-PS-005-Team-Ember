@@ -11,6 +11,14 @@ Team Ember: Network anomaly detection based on logs
 - Yu Du
 - Ke Wu
 
+## Files
+
+[Report](Network%20Anomaly%20Detection%20Based%20on%20Logs.pdf)
+
+[Slides](Network%20Anomaly%20Detection%20Based%20on%20Logs.pptx.pdf)
+
+[Code](project)
+
 ## Requirments
 
 Install all the packages:
